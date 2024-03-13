@@ -1,7 +1,8 @@
 ## MEU REPOSITORIO DE AULA GIT
 # Autor: Eduardo Fontes
-lolololololo
-<h3> Itens que eu aprendi </h3>
+Nem um, nem outro, agora quero lelelelele
+<h3> Itens que eu aprendi. </h3>
+>>>>>>> origin/master
 <ul>
 <li>init</li>
 <li>add</li>
